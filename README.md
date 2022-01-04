@@ -1,4 +1,4 @@
-# Ingeniero de sistemas titulado en busqueda de experiencia laboral
+# Ingeniero de sistemas titulado en búsqueda de experiencia laboral
 <div align="center">
   <img height="150" style="border-radius:10px;" src="https://media.discordapp.net/attachments/809903524463902752/925027246870253598/unknown.png?width=1003&height=262">
  </div>
