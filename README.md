@@ -8,7 +8,7 @@
   </div>
     
   <div style="display: inline_block" align="center"><br>
-    <p align="left">
+    <p align="center">
         <a
           href="https://www.w3schools.com/css/"
           target="_blank"
