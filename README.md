@@ -2,9 +2,9 @@
  <br>
   <div align="center">
     <a href="https://github.com/JCruzMi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCruzMi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=JCruzMi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCruzMi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=JCruzMi&theme=dark&hide_border=true)"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&layout=compact&langs_count=7&theme=gotham](https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCruzMi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&layout=compact&langs_count=7&theme=gotham"/> <br>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JCruzMi&theme=gotham/>
   </div>
   <div style="display: inline_block" align="center"><br>
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
