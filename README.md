@@ -1,7 +1,10 @@
 # Web Developer
  <br>
   <div align="center">
-    <a href="https://github.com/JCruzMi">
+   ![](https://github-readme-stats.vercel.app/api?username=JCruzMi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=JCruzMi&theme=dark&hide_border=true)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCruzMi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&layout=compact&langs_count=7&theme=gotham"/>
   </div>
