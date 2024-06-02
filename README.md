@@ -6,7 +6,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&layout=compact&langs_count=7&theme=gotham"/><br>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JCruzMi&theme=gotham"/>
   </div>
-     <p align="left">
+    
+  <div style="display: inline_block" align="center"><br>
+    <p align="left">
         <a
           href="https://www.w3schools.com/css/"
           target="_blank"
@@ -116,7 +118,7 @@
           />
         </a>
       </p>
-
+  </div>
   
 <div align="center">
   <a href = "mailto:juan.murato.cruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
